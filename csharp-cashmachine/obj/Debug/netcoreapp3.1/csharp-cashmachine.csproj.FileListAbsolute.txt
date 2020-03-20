@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/bin/Debug/netcoreapp3.1/csharp-cashmachine.deps.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/bin/Debug/netcoreapp3.1/csharp-cashmachine.runtimeconfig.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/bin/Debug/netcoreapp3.1/csharp-cashmachine.runtimeconfig.dev.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/bin/Debug/netcoreapp3.1/csharp-cashmachine.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/bin/Debug/netcoreapp3.1/csharp-cashmachine.pdb
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/obj/Debug/netcoreapp3.1/csharp-cashmachine.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/obj/Debug/netcoreapp3.1/csharp-cashmachine.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/obj/Debug/netcoreapp3.1/csharp-cashmachine.AssemblyInfo.cs
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/obj/Debug/netcoreapp3.1/csharp-cashmachine.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-cashmachine/obj/Debug/netcoreapp3.1/csharp-cashmachine.pdb

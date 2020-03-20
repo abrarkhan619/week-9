@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/obj/Debug/netcoreapp3.1/csharp-polymorphism.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/obj/Debug/netcoreapp3.1/csharp-polymorphism.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/obj/Debug/netcoreapp3.1/csharp-polymorphism.AssemblyInfo.cs
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/bin/Debug/netcoreapp3.1/csharp-polymorphism.deps.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/bin/Debug/netcoreapp3.1/csharp-polymorphism.runtimeconfig.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/bin/Debug/netcoreapp3.1/csharp-polymorphism.runtimeconfig.dev.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/bin/Debug/netcoreapp3.1/csharp-polymorphism.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/bin/Debug/netcoreapp3.1/csharp-polymorphism.pdb
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/obj/Debug/netcoreapp3.1/csharp-polymorphism.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-polymorphism/obj/Debug/netcoreapp3.1/csharp-polymorphism.pdb

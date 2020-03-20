@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/obj/Debug/netcoreapp3.1/csharp-inheritance.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/obj/Debug/netcoreapp3.1/csharp-inheritance.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/obj/Debug/netcoreapp3.1/csharp-inheritance.AssemblyInfo.cs
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/bin/Debug/netcoreapp3.1/csharp-inheritance.deps.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/bin/Debug/netcoreapp3.1/csharp-inheritance.runtimeconfig.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/bin/Debug/netcoreapp3.1/csharp-inheritance.runtimeconfig.dev.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/bin/Debug/netcoreapp3.1/csharp-inheritance.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/bin/Debug/netcoreapp3.1/csharp-inheritance.pdb
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/obj/Debug/netcoreapp3.1/csharp-inheritance.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-inheritance/obj/Debug/netcoreapp3.1/csharp-inheritance.pdb

@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/bin/Debug/netcoreapp3.1/csharp-encapsulation.deps.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/bin/Debug/netcoreapp3.1/csharp-encapsulation.runtimeconfig.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/bin/Debug/netcoreapp3.1/csharp-encapsulation.runtimeconfig.dev.json
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/bin/Debug/netcoreapp3.1/csharp-encapsulation.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/bin/Debug/netcoreapp3.1/csharp-encapsulation.pdb
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/obj/Debug/netcoreapp3.1/csharp-encapsulation.csprojAssemblyReference.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/obj/Debug/netcoreapp3.1/csharp-encapsulation.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/obj/Debug/netcoreapp3.1/csharp-encapsulation.AssemblyInfo.cs
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/obj/Debug/netcoreapp3.1/csharp-encapsulation.dll
+/Users/codenation/Desktop/Codenation work/Week 9/csharp-encapsulation/obj/Debug/netcoreapp3.1/csharp-encapsulation.pdb
